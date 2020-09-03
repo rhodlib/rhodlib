@@ -23,7 +23,3 @@ const rhodlib = {
 ### Stats
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rhodlib&show_icons=true" alt="rhodlib" /></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhodlib&layout=compact&hide=html" alt="rhodlib" /></p>
-
-
