@@ -19,7 +19,7 @@ const rhodlib = {
 
 ### Stats
 
-[![Rhodlib github stats](https://github-readme-stats.vercel.app/api?username=rhodlib&show_icons=true&theme=tokyonight))](https://github.com/anuraghazra/github-readme-stats)
+[![Rhodlib github stats](https://github-readme-stats.vercel.app/api?username=rhodlib&show_icons=true))](https://github.com/rhodlib/github-readme-stats)
 
 
 <!--
