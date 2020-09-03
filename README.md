@@ -1,5 +1,3 @@
-![gh-bar](https://user-images.githubusercontent.com/35263843/92175864-be235f80-ee13-11ea-830a-632504dec910.png)
-
 ## Hi, I'm Rodo Talibs👋
 
 ```js
