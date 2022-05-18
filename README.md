@@ -17,7 +17,3 @@ const rhodlib = {
 - [Website](https://rhodlib.me/)
 - [LinkedIn](https://www.linkedin.com/in/rhodlib/)
 - [dev.to](https://dev.to/rhodlib)
-
-### Stats
-
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=rhodlib&show_icons=true" alt="rhodlib" /></p>
