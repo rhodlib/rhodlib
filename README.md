@@ -14,6 +14,6 @@ const rhodlib = {
 
 ### You can find me 🌎:
 
-- [Website](https://rhodlib.me/)
+- [Website](https://rhodlib.com/)
 - [LinkedIn](https://www.linkedin.com/in/rhodlib/)
 - [dev.to](https://dev.to/rhodlib)
