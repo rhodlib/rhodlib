@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm Rodo Talibs</h1>
-<h3 align="center">A passionate web developer from Argentina</h3>
+# Hello!, I'm Rodolfo Talibs
 
-### About me in code
-```js
-const rhodlib = {
-  technologies: "web",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  tools: ["React", "NodeJS", "Styled-Components", "NextJS"],
-  passions: ["web development", "games", "cocktails"]
-}
-```
-
-
-### You can find me 🌎:
+Web developer with 2+ years of experiencie. Working at the industry with technologies like React, React Native, Django
 
 - [Website](https://rhodlib.com/)
 - [LinkedIn](https://www.linkedin.com/in/rhodlib/)
-- [dev.to](https://dev.to/rhodlib)
+- [Froppysoft](https://www.froppysoft.com)
