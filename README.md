@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Rodolfo 👋</h1>
+<h1 align="center">Hi there, I'm Rodo 👋</h1>
 
 <p align="center">
   <a href="https://rhodlib.dev">
